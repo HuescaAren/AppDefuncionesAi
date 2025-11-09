@@ -1,0 +1,5 @@
+{
+  "name": "AppDefunciónAI",
+  "description": "An AI-powered web app to automatically upload, manage, and analyze photos of documents. Drag and drop files, and the AI extracts key data like names, dates, and relationships, saving it all to the cloud with search and export capabilities.",
+  "requestFramePermissions": []
+}
